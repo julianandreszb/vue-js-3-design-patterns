@@ -1,5 +1,4 @@
-import './assets/main.css'
-
+import 'simpledotcss/simple.min.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 
